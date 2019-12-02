@@ -24,4 +24,5 @@ class School
     roster.eadh do |x,y|
       nu_hash[x] = y.sort
   end
+  nu_hash
 end
