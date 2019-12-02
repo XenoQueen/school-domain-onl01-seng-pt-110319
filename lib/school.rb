@@ -20,6 +20,8 @@ class School
   end
   
   def sort
+    roster.eadh do |x,y|
+      
     nu_hash = {}
   end
 end
