@@ -19,5 +19,6 @@ class School
     end
   end
   
-  def 
+  def sort
+    nu.hash
 end
